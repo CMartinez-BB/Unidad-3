@@ -1,0 +1,15 @@
+.fondo{
+  -fx-background-image: url("./img/programacion.jpg")
+
+}
+.buttonAceptar{
+-fc-background-color: #E9EF3C;
+-fx-background.radius: 30px;
+}
+.texfield{
+-fx-background-color: #801F1F;
+-fx-border-radius: 30px;
+}
+.cabecera{
+-fx-background-color: #328ECC;
+}
